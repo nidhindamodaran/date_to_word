@@ -19,5 +19,9 @@ Or install it yourself as:
 
 ## Usage
 
-After installing 'the date_to_word' you can convert ruby date objects into words by DateToWord.date_to_words(<date_object here >)
+After installing 'the date_to_word' you can convert ruby date objects into words by 
+
+```ruby
+DateToWord.date_to_words(<date_object here>)
+```
 
