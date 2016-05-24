@@ -1,6 +1,7 @@
 # DateToWord
 
 [![Version     ](https://img.shields.io/gem/v/date_to_word.svg?style=flat)](https://rubygems.org/gems/date_to_word)
+[![Code Climate](https://codeclimate.com/github/nidhinnambiar/date_to_word/badges/gpa.svg)](https://codeclimate.com/github/nidhinnambiar/date_to_word)
 
 ## Installation
 
