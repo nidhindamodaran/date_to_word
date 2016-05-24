@@ -1,6 +1,6 @@
 # DateToWord
 
-[![Gem Version](https://badge.fury.io/rb/date_to_word.svg)](https://badge.fury.io/rb/date_to_word)
+[![Version     ](https://img.shields.io/gem/v/date_to_word.svg?style=flat)](https://rubygems.org/gems/date_to_word)
 
 ## Installation
 
