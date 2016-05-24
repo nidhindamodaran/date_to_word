@@ -1,5 +1,6 @@
 # DateToWord
 
+[![Gem Version](https://badge.fury.io/rb/date_to_word.svg)](https://badge.fury.io/rb/date_to_word)
 
 ## Installation
 
