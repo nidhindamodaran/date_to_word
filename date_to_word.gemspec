@@ -8,18 +8,15 @@ Gem::Specification.new do |spec|
   spec.version       = DateToWord::VERSION
   spec.authors       = ["Nidhin Nambiar"]
   spec.email         = ["dnidhin5@gmail.com"]
-
   spec.summary       = %q{ruby gem to convert date in to words}
   spec.description   = %q{Using date_to_word gem it is possible to convert ruby date object into words}
-  spec.homepage      = "http://github.com/nidhinnambiar/date_to_word"
   spec.license       = "MIT"
-
+  spec.homepage      = "http://nidhin.me"
   if spec.respond_to?(:metadata)
      spec.metadata['allowed_push_host'] = "https://rubygems.org"
   else
      raise "RubyGems 2.0 or newer is required to protect against public gem pushes."
   end
-
   spec.files         = `git ls-files -z`.split("\x0").reject { |f| f.match(%r{^(test|spec|features)/}) }
   spec.bindir        = "exe"
   spec.executables   = spec.files.grep(%r{^exe/}) { |f| File.basename(f) }
